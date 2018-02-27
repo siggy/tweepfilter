@@ -1,6 +1,6 @@
 # Tweepfilter
 
-Filter Twitter followings profiles by keyword.
+Keyword filter on your Twitter friends' profiles.
 
 ```bash
 go run main.go siggy patreon
